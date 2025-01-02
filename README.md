@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,10 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
+![screenshot-Product-preview-card-component](https://github.com/user-attachments/assets/80aa587a-bba9-4c51-bc3d-181d5d08ea51)
+
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Sri507/Frontend-Mentor_Product-preview-card-component)
+- Live Site URL: [live site URL](https://sri507.github.io/Frontend-Mentor_Product-preview-card-component/)
 
 ## My process
 
